@@ -26,6 +26,6 @@ Windows 的 `start.cmd` 或 `start.ps1` 优先调用 `py -3.12`，没有 Python 
 
 上游：https://github.com/Graphify-Labs/graphify
 
-RepoGo 原创交付仓库（星球首发前保持私有）：https://gitee.com/lushengjie/repogo-graphify 。附件可独立使用，发布后会按运营流程公开并核验仓库。
+RepoGo 原创交付仓库已公开，可匿名访问：https://gitee.com/lushengjie/repogo-graphify 。可见性说明更新于2026-10-31；附件可独立使用，原星球附件保留首发版本。
 
 RepoGo 提供中文说明、练习样例、重复运行与核验入口、步骤图；没有重写上游解析器。查询由上游 CLI 执行，原创入口只编排练习与核对结果。静态调用关系不等于完整理解所有运行分支，复杂项目仍需结合原代码与测试。
